@@ -1,0 +1,8 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+  <channel>
+    <title>GoldenShield Updates</title>
+    <description>Auto-update feed for GoldenShield macOS app</description>
+    <language>en</language>
+  </channel>
+</rss>
