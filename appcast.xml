@@ -2,7 +2,7 @@
 <rss xmlns:ns0="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>GoldenShield</title>
-        <item>
+        <item><title>1.0.7</title><pubDate>Sun, 09 Nov 2025 23:02:57 +0000</pubDate><ns0:version>1.0.7</ns0:version><ns0:shortVersionString>1.0.7</ns0:shortVersionString><ns0:minimumSystemVersion>12.0</ns0:minimumSystemVersion><enclosure url="https://github.com/Golden-Shield-Protection/goldenshield-releases/releases/download/v1.0.7/GoldenShield-1.0.7.dmg" length="5037608" type="application/octet-stream" ns0:edSignature="ISIPQwIYYwRanWbiQOwWQ5vKe8rvxk7r4+I222jD/4OB/CkMc388hMP1YJhnza2PYFzZ8NNRi7EmhNDZkq0FBw==" /></item><item>
             <title>1.0.6</title>
             <pubDate>Sun, 09 Nov 2025 15:49:52 -0500</pubDate>
             <ns0:version>1.0.6</ns0:version>
