@@ -8,7 +8,7 @@
             <sparkle:version>1.0.0</sparkle:version>
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Golden-Shield-Protection/goldenshield-mac/releases/download/GoldenShield-1.0.0.dmg" length="4230097" type="application/octet-stream"/>
+            <enclosure url="https://github.com/Golden-Shield-Protection/goldenshield-releases/releases/download/GoldenShield-1.0.0.dmg" length="4230097" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>
