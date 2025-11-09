@@ -1,8 +1,14 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
-  <channel>
-    <title>GoldenShield Updates</title>
-    <description>Auto-update feed for GoldenShield macOS app</description>
-    <language>en</language>
-  </channel>
+    <channel>
+        <title>GoldenShield</title>
+        <item>
+            <title>1.0.0</title>
+            <pubDate>Sat, 08 Nov 2025 00:24:30 -0500</pubDate>
+            <sparkle:version>1.0.0</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/Golden-Shield-Protection/goldenshield-mac/releases/download/GoldenShield-1.0.0.dmg" length="4230097" type="application/octet-stream"/>
+        </item>
+    </channel>
 </rss>
