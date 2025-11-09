@@ -8,7 +8,7 @@
             <sparkle:version>1.0.2</sparkle:version>
             <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Golden-Shield-Protection/goldenshield-releases/releases/download/v1.0.2/GoldenShield-1.0.2.dmg" length="5018732" type="application/octet-stream" sparkle:edSignature="JyTCEX5p5V6nCffnVSv2A9VG/MqwhsHB89I+LKzqhkTuWBc83EPU/+H5mhIczqgXelrKgqQyXFpDxw3bu7bWBQ=="/>
+            <enclosure url="https://github.com/Golden-Shield-Protection/goldenshield-releases/releases/download/v1.0.2/GoldenShield-1.0.2.dmg" length="5018807" type="application/octet-stream" sparkle:edSignature="+l1y0I0GY2g+Qs3u7TZjIi/Ue5JyodN9AATvjfkf0xJ1d8DGKtXK9GRs8fYy8DHVVTbx8VgUHghZZmmL0fZPDA=="/>
             <sparkle:deltas>
                 <enclosure url="https://github.com/Golden-Shield-Protection/goldenshield-releases/releases/download/GoldenShield1.0.2-1.0.1.delta" sparkle:deltaFrom="1.0.1" length="542526" type="application/octet-stream" sparkle:edSignature="ZE4pKRL44y02ePR7T1CYOpvU80XsM2u+VXSNDZIs/+D8qHp1Iu66SF2s2k7V2pUKmSRHAORoddUd+V5z0VNBDQ=="/>
             </sparkle:deltas>
