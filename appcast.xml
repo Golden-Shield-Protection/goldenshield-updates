@@ -3,43 +3,35 @@
     <channel>
         <title>GoldenShield</title>
         <item>
+            <title>1.0.6</title>
+            <pubDate>Sun, 09 Nov 2025 15:49:52 -0500</pubDate>
+            <ns0:version>1.0.6</ns0:version>
+            <ns0:shortVersionString>1.0.6</ns0:shortVersionString>
+            <ns0:minimumSystemVersion>10.13</ns0:minimumSystemVersion>
+            <enclosure url="https://github.com/Golden-Shield-Protection/goldenshield-releases/releases/download/v1.0.6/GoldenShield-1.0.6.dmg" length="5020543" type="application/octet-stream" ns0:edSignature="g3oQsryQwSymc7zVPDQvhuF27UAA+GGrsEvl7GtlwX4Umg4INKhpUSR6Gn+OQl1puj4rAHlMttsm6wfVg6OwBA==" />
+            <ns0:deltas>
+                <enclosure url="https://github.com/Golden-Shield-Protection/goldenshield-releases/releases/download/v1.0.6/GoldenShield1.0.6-1.0.5.delta" ns0:deltaFrom="1.0.5" length="12002" type="application/octet-stream" ns0:deltaFromSparkleExecutableSize="862864" ns0:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" ns0:edSignature="1unISjvzLPX/c3VVH+gsxdHDl//ECeTOH1qAPPJc6A7qNZOmJ/N+LDk9++3u/sYIKX2Rvhx92HkwqVQ6LGj/CA==" />
+                <enclosure url="https://github.com/Golden-Shield-Protection/goldenshield-releases/releases/download/v1.0.6/GoldenShield1.0.6-1.0.4.delta" ns0:deltaFrom="1.0.4" length="12110" type="application/octet-stream" ns0:deltaFromSparkleExecutableSize="862864" ns0:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" ns0:edSignature="aX9PBjOevD5VwFds+xTAdsaijI19SbwOM88rlYaW5n3gEstf0QPaXeOswrhX5YfFkFrPuQW4I/hoiYvL7cmrDQ==" />
+                <enclosure url="https://github.com/Golden-Shield-Protection/goldenshield-releases/releases/download/v1.0.6/GoldenShield1.0.6-1.0.3.delta" ns0:deltaFrom="1.0.3" length="126134" type="application/octet-stream" ns0:deltaFromSparkleExecutableSize="862864" ns0:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" ns0:edSignature="MMj0kPN/DoZBXp8dJ9zY+ISSVPFnuJo75nRF363qp3iAPWReTykco6auY2iWe4tngqJbUwfkN7Zyb1Y+yXueAA==" />
+                <enclosure url="https://github.com/Golden-Shield-Protection/goldenshield-releases/releases/download/v1.0.6/GoldenShield1.0.6-1.0.2.delta" ns0:deltaFrom="1.0.2" length="124614" type="application/octet-stream" ns0:deltaFromSparkleExecutableSize="862864" ns0:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" ns0:edSignature="Ap8K84dlPCnltoojM3RsNWUyUTUSgK+1xdzjo8MeCFinzcWT9WGoinUSMkh4YxgY1NMzkqXEjQYyqa12rp/FAQ==" />
+                <enclosure url="https://github.com/Golden-Shield-Protection/goldenshield-releases/releases/download/v1.0.6/GoldenShield1.0.6-1.0.1.delta" ns0:deltaFrom="1.0.1" length="652586" type="application/octet-stream" ns0:edSignature="V2X/Y1Ew09MaMDDKwiS4oDy/JPH7dRCjTt96DKXABwrMsMdKqG7fRH0USO4t4kj87gn9skU6TrCDRY4qS0MgBw==" />
+            </ns0:deltas>
+        </item>
+        <item>
             <title>1.0.5</title>
             <pubDate>Sun, 09 Nov 2025 15:09:45 -0500</pubDate>
             <ns0:version>1.0.5</ns0:version>
             <ns0:shortVersionString>1.0.5</ns0:shortVersionString>
             <ns0:minimumSystemVersion>10.13</ns0:minimumSystemVersion>
             <enclosure url="https://github.com/Golden-Shield-Protection/goldenshield-releases/releases/download/v1.0.5/GoldenShield-1.0.5.dmg" length="5020546" type="application/octet-stream" ns0:edSignature="7HV1h0bIWMqmfhJpPjOhDqf7K9w/NS3o/0rvzEbTGkY/K25vgmW+Fa7evfRCYzb74q1B9kyi0oxqD3Dq0+PjBA==" />
-            <ns0:deltas>
-                <enclosure url="https://github.com/Golden-Shield-Protection/goldenshield-releases/releases/download/v1.0.5/GoldenShield1.0.5-1.0.4.delta" ns0:deltaFrom="1.0.4" length="11498" type="application/octet-stream" ns0:deltaFromSparkleExecutableSize="862864" ns0:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" ns0:edSignature="ggfzcmUQ6bIk/fip+fOnkFGns9VoBr2ALybPGFv75LZe4Fiz5XzDw4hmKj6PC57jPjXj4EGbiV01ZV2l8L3YBg==" />
-                <enclosure url="https://github.com/Golden-Shield-Protection/goldenshield-releases/releases/download/v1.0.5/GoldenShield1.0.5-1.0.3.delta" ns0:deltaFrom="1.0.3" length="124690" type="application/octet-stream" ns0:deltaFromSparkleExecutableSize="862864" ns0:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" ns0:edSignature="bBLo0k7sthsU1NmIfNsCnnsSMpfVfsg1uite0UpUIc5L8u2sX6+nnH8Klw6pqqj/WEg1Da8OUgd0lm5w9tZsDw==" />
-                <enclosure url="https://github.com/Golden-Shield-Protection/goldenshield-releases/releases/download/v1.0.5/GoldenShield1.0.5-1.0.2.delta" ns0:deltaFrom="1.0.2" length="125778" type="application/octet-stream" ns0:deltaFromSparkleExecutableSize="862864" ns0:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" ns0:edSignature="z2kpldOOJw1nyDRsUgdxq7eF8vmX/AMrnn0WGhDMQB9uVRwYZOYv/Fos2vcZMcoREbZBsyXzU1aYRw42fv8xCg==" />
-                <enclosure url="https://github.com/Golden-Shield-Protection/goldenshield-releases/releases/download/v1.0.5/GoldenShield1.0.5-1.0.1.delta" ns0:deltaFrom="1.0.1" length="653058" type="application/octet-stream" ns0:edSignature="Ai9PnxH5Lki6eA1fe9TtQyzxesVoB6bfEYkQ1CMQ/Q3Xbrk/lSbqqJZ29ZFH323uxr71rMuYCPoBdLUQ7QDtAA==" />
-            </ns0:deltas>
         </item>
         <item>
             <title>1.0.4</title>
-            <pubDate>Sun, 09 Nov 2025 13:50:57 -0500</pubDate>
+            <pubDate>Sun, 09 Nov 2025 15:01:43 -0500</pubDate>
             <ns0:version>1.0.4</ns0:version>
             <ns0:shortVersionString>1.0.4</ns0:shortVersionString>
             <ns0:minimumSystemVersion>10.13</ns0:minimumSystemVersion>
             <enclosure url="https://github.com/Golden-Shield-Protection/goldenshield-releases/releases/download/v1.0.4/GoldenShield-1.0.4.dmg" length="5020502" type="application/octet-stream" ns0:edSignature="RPGBYb/RUm9+ezmt60J3M+LKTxG0T2s+mw1hKCbMH3BuZQ4LFS2nYdel6nCWc6JB9zPysCg30HgH9Rzs9p4ZAQ==" />
-            <ns0:deltas>
-                <enclosure url="https://github.com/Golden-Shield-Protection/goldenshield-releases/releases/download/v1.0.4/GoldenShield1.0.4-1.0.3.delta" ns0:deltaFrom="1.0.3" length="11870" type="application/octet-stream" ns0:deltaFromSparkleExecutableSize="862864" ns0:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" ns0:edSignature="lGJsrl3knjvmvLn1z2oTbw5mV6+dN5SV0Ncd351it5xyioqcLlNSRnLnNMsDr4Qa+CT1QlTQCsiXszYjgM0KAA==" />
-                <enclosure url="https://github.com/Golden-Shield-Protection/goldenshield-releases/releases/download/v1.0.4/GoldenShield1.0.4-1.0.2.delta" ns0:deltaFrom="1.0.2" length="11878" type="application/octet-stream" ns0:deltaFromSparkleExecutableSize="862864" ns0:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" ns0:edSignature="CZLfeFLnKtjZarcy7d/e+Csbn6iA5TKi6aUn2+aIqixXx9kVw64F914V0X5yHXGE8B5DJv003bDd4G7evESaAQ==" />
-                <enclosure url="https://github.com/Golden-Shield-Protection/goldenshield-releases/releases/download/v1.0.4/GoldenShield1.0.4-1.0.1.delta" ns0:deltaFrom="1.0.1" length="543094" type="application/octet-stream" ns0:edSignature="Bbd4OKsTueBqzpc63jpoHwKol3OjspOeb7TDlZhwnzozUMKQNayZl1IdHghdb62iApljc11GOLhr45ao1NEnBA==" />
-            </ns0:deltas>
-        </item>
-        <item>
-            <title>1.0.3</title>
-            <pubDate>Sun, 09 Nov 2025 13:37:44 -0500</pubDate>
-            <ns0:version>1.0.3</ns0:version>
-            <ns0:shortVersionString>1.0.3</ns0:shortVersionString>
-            <ns0:minimumSystemVersion>10.13</ns0:minimumSystemVersion>
-            <enclosure url="https://github.com/Golden-Shield-Protection/goldenshield-releases/releases/download/v1.0.3/GoldenShield-1.0.3.dmg" length="5018736" type="application/octet-stream" ns0:edSignature="0LhFYkvOIgYh0Go0dYnfgIP3AUoAqFJky/96JHbrcGq6Kum4xudoqXVgT3rZDNOPgRPAObD95LaPujGAEILWBQ==" />
-            <ns0:deltas>
-                <enclosure url="https://github.com/Golden-Shield-Protection/goldenshield-releases/releases/download/v1.0.3/GoldenShield1.0.3-1.0.2.delta" ns0:deltaFrom="1.0.2" length="11370" type="application/octet-stream" ns0:deltaFromSparkleExecutableSize="862864" ns0:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" ns0:edSignature="ttrKGK2Up0j5YLTx4yexijegxRf98Is6LuY2Sw5QTPWQsWsZVF7aHezs+vPtgQa836lDW7TKi0iF0AzjQNuBBA==" />
-                <enclosure url="https://github.com/Golden-Shield-Protection/goldenshield-releases/releases/download/v1.0.3/GoldenShield1.0.3-1.0.1.delta" ns0:deltaFrom="1.0.1" length="542458" type="application/octet-stream" ns0:edSignature="QTqXWwDVnv4t0AWekxvY5dYjFWvcMEM7KbHIfczJcpaLNUt362aCPh7BK7BcTiw/omOpUmDTDxoXas3ViH3/DQ==" />
-            </ns0:deltas>
         </item>
     </channel>
 </rss>
