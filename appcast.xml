@@ -3,6 +3,19 @@
     <channel>
         <title>GoldenShield</title>
         <item>
+            <title>1.0.4</title>
+            <pubDate>Sun, 09 Nov 2025 13:50:57 -0500</pubDate>
+            <sparkle:version>1.0.4</sparkle:version>
+            <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/Golden-Shield-Protection/goldenshield-releases/releases/download/v1.0.4/GoldenShield-1.0.4.dmg" length="5018958" type="application/octet-stream" sparkle:edSignature="1F7VvtYdITpnFzUtbUKMji3HNIehpdfuXYWJkhgQTuT1BU4m9fSyMkTRYWe3hxfJCEDZoIbO9jAK4zoJn19NAg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/Golden-Shield-Protection/goldenshield-releases/releases/download/GoldenShield1.0.4-1.0.3.delta" sparkle:deltaFrom="1.0.3" length="11870" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="862864" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="lGJsrl3knjvmvLn1z2oTbw5mV6+dN5SV0Ncd351it5xyioqcLlNSRnLnNMsDr4Qa+CT1QlTQCsiXszYjgM0KAA=="/>
+                <enclosure url="https://github.com/Golden-Shield-Protection/goldenshield-releases/releases/download/GoldenShield1.0.4-1.0.2.delta" sparkle:deltaFrom="1.0.2" length="11878" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="862864" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="CZLfeFLnKtjZarcy7d/e+Csbn6iA5TKi6aUn2+aIqixXx9kVw64F914V0X5yHXGE8B5DJv003bDd4G7evESaAQ=="/>
+                <enclosure url="https://github.com/Golden-Shield-Protection/goldenshield-releases/releases/download/GoldenShield1.0.4-1.0.1.delta" sparkle:deltaFrom="1.0.1" length="543094" type="application/octet-stream" sparkle:edSignature="Bbd4OKsTueBqzpc63jpoHwKol3OjspOeb7TDlZhwnzozUMKQNayZl1IdHghdb62iApljc11GOLhr45ao1NEnBA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.0.3</title>
             <pubDate>Sun, 09 Nov 2025 13:37:44 -0500</pubDate>
             <sparkle:version>1.0.3</sparkle:version>
@@ -24,14 +37,6 @@
             <sparkle:deltas>
                 <enclosure url="https://github.com/Golden-Shield-Protection/goldenshield-releases/releases/download/GoldenShield1.0.2-1.0.1.delta" sparkle:deltaFrom="1.0.1" length="542526" type="application/octet-stream" sparkle:edSignature="ZE4pKRL44y02ePR7T1CYOpvU80XsM2u+VXSNDZIs/+D8qHp1Iu66SF2s2k7V2pUKmSRHAORoddUd+V5z0VNBDQ=="/>
             </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.0.1</title>
-            <pubDate>Sun, 09 Nov 2025 11:52:13 -0500</pubDate>
-            <sparkle:version>1.0.1</sparkle:version>
-            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Golden-Shield-Protection/goldenshield-releases/releases/download/v1.0.1/GoldenShield-1.0.1.dmg" length="4163923" type="application/octet-stream" sparkle:edSignature="bR3lPMj3MBkGSKomhQvOpYviQJNhk8uvKv7UFdffCwn6HhkFNE6m6t4TDTOJrncaR+9UY8Df4FXHt+qbDn9YCQ=="/>
         </item>
     </channel>
 </rss>
