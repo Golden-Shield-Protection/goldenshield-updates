@@ -3,6 +3,14 @@
     <channel>
         <title>GoldenShield</title>
         <item>
+            <title>1.0.10</title>
+            <pubDate>Mon, 10 Nov 2025 02:42:29 -0500</pubDate>
+            <sparkle:version>1.0.10</sparkle:version>
+            <sparkle:shortVersionString>1.0.10</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/Golden-Shield-Protection/goldenshield-releases/releases/download/v1.0.10/GoldenShield-1.0.10.dmg" length="5066849" type="application/octet-stream" sparkle:edSignature="CvKL3ttOblLci0ErsjWG0xr373DAcfj3nBF7WhgOujC6qHNN55y8yK4LB9ZMzxHwwPPuuTI3VFnSSjEZxA7MDg==" />
+        </item>
+        <item>
             <title>1.0.9</title>
             <pubDate>Mon, 10 Nov 2025 00:36:36 -0500</pubDate>
             <sparkle:version>1.0.9</sparkle:version>
@@ -17,14 +25,6 @@
             <sparkle:shortVersionString>1.0.8</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/Golden-Shield-Protection/goldenshield-releases/releases/download/v1.0.8/GoldenShield-1.0.8.dmg" length="5050739" type="application/octet-stream" sparkle:edSignature="dDhJ0RaSU0NStAs1fFQqKE7CnKLn5nhJJ0vkfloOwdTGJ5h7TqI+Ajj7LNAAUOG8GTf4qQfVviWz5NtkT1vmBA==" />
-        </item>
-        <item>
-            <title>1.0.7</title>
-            <pubDate>Mon, 10 Nov 2025 00:08:15 -0500</pubDate>
-            <sparkle:version>1.0.7</sparkle:version>
-            <sparkle:shortVersionString>1.0.7</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Golden-Shield-Protection/goldenshield-releases/releases/download/v1.0.7/GoldenShield-1.0.7.dmg" length="5050776" type="application/octet-stream" sparkle:edSignature="lnqWbDYdDRjNMJvxGYo6H6e4FxKZCGkb9BMz/6emRu82eF1694th5QWAkL+0p1xQumwz0diobB5U12fSwsQ5DA==" />
         </item>
     </channel>
 </rss>
