@@ -3,6 +3,14 @@
     <channel>
         <title>GoldenShield</title>
         <item>
+            <title>1.0.12</title>
+            <pubDate>Mon, 10 Nov 2025 10:57:35 -0500</pubDate>
+            <sparkle:version>1.0.12</sparkle:version>
+            <sparkle:shortVersionString>1.0.12</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/Golden-Shield-Protection/goldenshield-releases/releases/download/v1.0.12/GoldenShield-1.0.12.dmg" length="5070814" type="application/octet-stream" sparkle:edSignature="GbyV4E9m/j7B7LlNj0eOwWDdJpuvin62VwzltGG3EwGVOHr/dGtb2SCvkAr0wrzWKZ82uSoYnnZ8O2+a47+uCw==" />
+        </item>
+        <item>
             <title>1.0.11</title>
             <pubDate>Mon, 10 Nov 2025 03:11:36 -0500</pubDate>
             <sparkle:version>1.0.11</sparkle:version>
@@ -17,14 +25,6 @@
             <sparkle:shortVersionString>1.0.10</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/Golden-Shield-Protection/goldenshield-releases/releases/download/v1.0.10/GoldenShield-1.0.10.dmg" length="5066849" type="application/octet-stream" sparkle:edSignature="CvKL3ttOblLci0ErsjWG0xr373DAcfj3nBF7WhgOujC6qHNN55y8yK4LB9ZMzxHwwPPuuTI3VFnSSjEZxA7MDg==" />
-        </item>
-        <item>
-            <title>1.0.9</title>
-            <pubDate>Mon, 10 Nov 2025 00:36:36 -0500</pubDate>
-            <sparkle:version>1.0.9</sparkle:version>
-            <sparkle:shortVersionString>1.0.9</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Golden-Shield-Protection/goldenshield-releases/releases/download/v1.0.9/GoldenShield-1.0.9.dmg" length="5050512" type="application/octet-stream" sparkle:edSignature="l3cbThUuf/LfGHGLX37u2jnPnZskGFoI8YpMTC4LXFVSgU7clfwK6w6HjQc1ewIRjva2EDSt7FW9lc8LPKWgDA==" />
         </item>
     </channel>
 </rss>
