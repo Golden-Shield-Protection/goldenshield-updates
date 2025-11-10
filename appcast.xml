@@ -3,12 +3,20 @@
     <channel>
         <title>GoldenShield</title>
         <item>
+            <title>1.0.9</title>
+            <pubDate>Mon, 10 Nov 2025 00:36:36 -0500</pubDate>
+            <sparkle:version>1.0.9</sparkle:version>
+            <sparkle:shortVersionString>1.0.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/Golden-Shield-Protection/goldenshield-releases/releases/download/v1.0.9/GoldenShield-1.0.9.dmg" length="5050512" type="application/octet-stream" sparkle:edSignature="l3cbThUuf/LfGHGLX37u2jnPnZskGFoI8YpMTC4LXFVSgU7clfwK6w6HjQc1ewIRjva2EDSt7FW9lc8LPKWgDA==" />
+        </item>
+        <item>
             <title>1.0.8</title>
             <pubDate>Mon, 10 Nov 2025 00:12:58 -0500</pubDate>
             <sparkle:version>1.0.8</sparkle:version>
             <sparkle:shortVersionString>1.0.8</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Golden-Shield-Protection/goldenshield-releases/releases/download/v1.0.8/GoldenShield-1.0.8.dmg" length="5050701" type="application/octet-stream" sparkle:edSignature="FUNiK1aVtr5CSgi4dZuo4QV8MSMM7JHSu/1UUkfT3QvyR8mMJWfwWUrEj5FZhINEmQMBdEsUUU4ZqV04eG9xCA==" />
+            <enclosure url="https://github.com/Golden-Shield-Protection/goldenshield-releases/releases/download/v1.0.8/GoldenShield-1.0.8.dmg" length="5050739" type="application/octet-stream" sparkle:edSignature="dDhJ0RaSU0NStAs1fFQqKE7CnKLn5nhJJ0vkfloOwdTGJ5h7TqI+Ajj7LNAAUOG8GTf4qQfVviWz5NtkT1vmBA==" />
         </item>
         <item>
             <title>1.0.7</title>
